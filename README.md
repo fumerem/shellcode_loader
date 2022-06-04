@@ -1,4 +1,4 @@
-# shellcode_constructor
+# shellcode_loader
 
 YOU NEED:
 
